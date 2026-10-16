@@ -1,0 +1,4 @@
+vehicle_service.py:7:33: E231 missing whitespace after ','
+vehicle_service.py:43:9: E225 missing whitespace around operator
+vehicle_service.py:49:1: E302 expected 2 blank lines, found 1
+vehicle_service.py:77:80: E501 line too long (83 > 79 characters)
